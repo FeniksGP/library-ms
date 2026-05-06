@@ -1,0 +1,5 @@
+library-ms - prosty program do zarzadzania biblioteką.
+Wlasciwosci:
+- dodawanie, modyfikowanie, usuwanie i wyswietlanie ksiazek z biblioteki,
+- dodawanie, modyfikowanie, usuwanie i wyswietlanie  uzytkownikow z bazy danych,
+- pozyczanie i odbieranie ksiazek
