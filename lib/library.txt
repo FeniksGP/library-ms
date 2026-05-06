@@ -1,0 +1,8 @@
+1;Dale;Karn;4;
+4;Polo;Holo;0;
+5;Rol;Loro;1;
+8;Lsnienie;King;0;
+9;Harry;Potter;4;
+11;Polo;Kolo;2;
+12;Tom;Rolo;2;
+13;Cpp;Lang;3;
